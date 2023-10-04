@@ -1,0 +1,3 @@
+baseURL = 'https://keiji.github.io/bocchi-docs/'
+languageCode = 'ja-jp'
+title = 'Bocchi Docs'
