@@ -3,6 +3,7 @@ title: "FAQ"
 type: docs
 # bookComments: false
 # bookSearchExclude: false
+weight: 200
 ---
 
  # よくある質問
