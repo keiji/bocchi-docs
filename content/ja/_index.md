@@ -40,6 +40,8 @@ Bocchiの利用には、次のものが必要です。
 
 TBD
 
+対応OS: Android 11（API Level 30）以上
+
 ## アプリ・ドキュメントのフィードバック
 
  - bocchi_feedback [at] keiji.dev

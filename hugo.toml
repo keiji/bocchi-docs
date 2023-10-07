@@ -24,11 +24,11 @@ defaultContentLanguageInSubdir = true
     languageName = 'Japanese'
     title = 'Bocchi Docs'
     weight = 10
-#  [languages.en]
-#    contentDir = 'content/en'
-#    disabled = false
-#    languageCode = 'en'
-#    languageDirection = 'ltr'
-#    languageName = 'English'
-#    title = 'Bocchi Docs'
-#    weight = 20
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = true
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Bocchi Docs'
+    weight = 20
