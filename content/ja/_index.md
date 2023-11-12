@@ -38,7 +38,9 @@ Bocchiの利用には、次のものが必要です。
 
 ## ダウンロード
 
-TBD
+Bocchiは現在、Google Playでオープンベータ版の提出を終え、審査を受けています。
+
+https://play.google.com/apps/testing/dev.keiji.bocchi.app
 
 対応OS: Android 11（API Level 30）以上
 
