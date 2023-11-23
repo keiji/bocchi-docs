@@ -38,7 +38,7 @@ Bocchiの利用には、次のものが必要です。
 
 ## ダウンロード
 
-Bocchiは現在、Google Playでオープンベータ版の提出を終え、審査を受けています。
+Bocchiは現在、Google Playでオープンベータ版を公開しています。
 
 https://play.google.com/apps/testing/dev.keiji.bocchi.app
 
