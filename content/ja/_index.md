@@ -42,7 +42,9 @@ Bocchiは現在、Google Playでオープンベータ版を公開しています
 
 https://play.google.com/apps/testing/dev.keiji.bocchi.app
 
-対応OS: Android 11（API Level 30）以上
+{{< figure src="images/4175a15414d2d3120581ec478777db263e06dc1fc397e211a61bc65747a41c59.png" >}}
+
+対応OS: Android 8.0（API Level 26）以上
 
 ## アプリ・ドキュメントのフィードバック
 

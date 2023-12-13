@@ -19,16 +19,18 @@ defaultContentLanguageInSubdir = true
 [markup.tableOfContents]
   startLevel = 1
 
-  [languages.ja]
+[languages.ja]
     contentDir = 'content/ja'
+    staticDir1 = 'static/ja'
     disabled = false
     languageCode = 'ja'
     languageDirection = 'ltr'
     languageName = 'Japanese'
     title = 'Bocchi Docs'
     weight = 10
-  [languages.en]
+[languages.en]
     contentDir = 'content/en'
+    staticDir1 = 'static/en'
     disabled = true
     languageCode = 'en'
     languageDirection = 'ltr'
