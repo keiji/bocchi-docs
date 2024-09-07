@@ -38,13 +38,17 @@ Bocchiの利用には、次のものが必要です。
 
 ## ダウンロード
 
-Bocchiは現在、Google Playでオープンベータ版を公開しています。
+Google Playでダウンロードできます。
+
+https://play.google.com/store/apps/details?id=dev.keiji.bocchi.app
+
+オープンベータ版では開発中のバージョンを試すことができます。
 
 https://play.google.com/apps/testing/dev.keiji.bocchi.app
 
 {{< figure src="images/4175a15414d2d3120581ec478777db263e06dc1fc397e211a61bc65747a41c59.png" >}}
 
-対応OS: Android 8.0（API Level 26）以上
+対応OS: Android 11.0（API Level 30）以上
 
 ## アプリ・ドキュメントのフィードバック
 
